@@ -1,0 +1,15 @@
+eu\fr\indyli\formation\cdi\business\util\DepartementEnum.class
+eu\fr\indyli\formation\cdi\business\util\WeldContext.class
+eu\fr\indyli\formation\cdi\business\service\impl\TacheFiniServiceImpl.class
+eu\fr\indyli\formation\cdi\business\util\WeldContext$1.class
+eu\fr\indyli\formation\cdi\business\service\ITacheService.class
+eu\fr\indyli\formation\cdi\business\dto\TacheDTO.class
+eu\fr\indyli\formation\cdi\business\service\impl\TacheServiceImpl.class
+eu\fr\indyli\formation\cdi\business\util\GenreEnum.class
+eu\fr\indyli\formation\cdi\business\util\WeldJUnit4Runner.class
+eu\fr\indyli\formation\cdi\business\dao\impl\TacheDAOImpl.class
+eu\fr\indyli\formation\cdi\business\dao\ITacheDAO.class
+eu\fr\indyli\formation\cdi\business\entity\Tache.class
+eu\fr\indyli\formation\cdi\business\service\impl\TacheAFaireServiceImpl.class
+eu\fr\indyli\formation\cdi\business\util\GestaBusinessConstantes.class
+eu\fr\indyli\formation\cdi\business\util\StatutTacheEnum.class
